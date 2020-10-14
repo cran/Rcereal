@@ -1,7 +1,7 @@
 Package: Rcereal
 Type: Package
 Title: C++11 Header Files for 'cereal'
-Version: 1.2.1
+Version: 1.2.1.1
 Date: 2017-01-24
 Author: Wush Wu, Randolph Voorhies, and Shane Grant
 Maintainer: Wush Wu <wush978@gmail.com>
@@ -24,6 +24,6 @@ VignetteBuilder: knitr
 Encoding: UTF-8
 RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2017-01-25 12:33:24 UTC; wush
+Packaged: 2020-10-14 15:38:58 UTC; hornik
 Repository: CRAN
-Date/Publication: 2017-01-26 12:03:17
+Date/Publication: 2020-10-14 16:34:31 UTC

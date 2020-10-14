@@ -1,11 +1,11 @@
-3a4ff1062e277bc24bab6132ebf5a5d4 *DESCRIPTION
+70add74a9aeca1d929c41289828db825 *DESCRIPTION
 67ad3369612cab55bf4a3cca842f27d6 *LICENSE
 a360ffb4580b15746211d90bebbef3de *NAMESPACE
 fe51f1cf2317ef259f9af8eecebe4685 *R/Rcereal.R
 6a5a25d6e5d6ffa13cbe3af7b5eb1c89 *README.md
-d3629d4fa828592fbfb5d40ef3c260bb *build/vignette.rds
+ccfb6575407e5fa02c7880eb72c1940b *build/vignette.rds
 8418966204d2576d083a59a740d54815 *inst/doc/intro.Rmd
-1fad538ed5ae72f62b6a3774280de4dc *inst/doc/intro.html
+7a20d3215f48746ea165987163eb1c1d *inst/doc/intro.html
 57f2e35526d95540f1d2a5e2bb1df79e *inst/include/cereal/access.hpp
 03cf03e8fe5b5319b72afc1f9465e519 *inst/include/cereal/archives/adapters.hpp
 22e8931657164f9e2118cf4b429270da *inst/include/cereal/archives/binary.hpp
@@ -75,7 +75,7 @@ e6b2081b1d3306c1866e11b8ed61021d *inst/include/cereal/types/forward_list.hpp
 35cee5e3a66c390095a1849ad6ca5cba *inst/include/cereal/types/functional.hpp
 685cc123267f3d90ea21c8a76a1c18e9 *inst/include/cereal/types/list.hpp
 d1747b4467572dd9795e348a5e84f450 *inst/include/cereal/types/map.hpp
-482ff33fa3ea2b61d9838c9dbb3d2522 *inst/include/cereal/types/memory.hpp
+cba142c3989c724d0430c8aad7cd471d *inst/include/cereal/types/memory.hpp
 ec30ce65d7aa2ecda157856d49419c5c *inst/include/cereal/types/polymorphic.hpp
 986227ea131d254c0e2de1168d48b616 *inst/include/cereal/types/queue.hpp
 bef57676f734a89e048d09790ffd99cc *inst/include/cereal/types/set.hpp
